@@ -2,4 +2,4 @@
 
 <a href='cocktailbymood.github.io'>Link to site</a>
 <h2>Preview:</h2>
-[image](https://github.com/dangerlulakebab/cocktailbymood.github.io/assets/101018207/9968bd40-d799-4537-b252-cb158070ab19)
+[image](Снимок экрана 2024-06-04 072033.png)
